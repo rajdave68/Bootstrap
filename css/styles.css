@@ -37,3 +37,15 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+
+.fa{
+    padding-right: 5px;
+}
+
+#btn{
+    background-color: #FDC02F;
+}
+
+label{
+    font-weight: 500;
+}
